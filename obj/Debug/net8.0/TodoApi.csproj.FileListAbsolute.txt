@@ -513,3 +513,41 @@ C:/Users/batuh/Desktop/Technical-Assessment/Assessment/TodoApi/bin/Debug/net8.0/
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/bin/Debug/net8.0/my-app/tsconfig.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/bin/Debug/net8.0/my-app/tsconfig.spec.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/bin/Debug/net8.0/my-app/dist/my-app/prerendered-routes.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/appsettings.Development.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/appsettings.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/angular.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/package-lock.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/package.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/tsconfig.app.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/tsconfig.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/tsconfig.spec.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/package-lock.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/TodoApi.staticwebassets.runtime.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/TodoApi
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/TodoApi.deps.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/TodoApi.runtimeconfig.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/TodoApi.dll
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/TodoApi.pdb
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.csproj.AssemblyReference.cache
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.AssemblyInfoInputs.cache
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.AssemblyInfo.cs
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.csproj.CoreCompileInputs.cache
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.sourcelink.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets.build.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets.development.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets/msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets/msbuild.build.TodoApi.props
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TodoApi.props
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TodoApi.props
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/staticwebassets.pack.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/scopedcss/bundle/TodoApi.styles.css
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.csproj.CopyComplete
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.dll
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/refint/TodoApi.dll
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.pdb
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/ref/TodoApi.dll
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/dist/my-app/prerendered-routes.json

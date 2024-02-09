@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3JFanmM5rDCXHXJkdnOzfCo08Cs/vXLB90uDFz470Rdtv7esfWMlxkQRGItJ3KpMk1jAAwBrLD2NTHVS7oMz1Q==",
+  "dgSpecHash": "/pABrzeZJ2lXWYqC3bjzrl1+8GLsd9selBcBMRbikKcEWGe4ZJ6PCkT9uYUEyDnIn5jrDyeAEldVECNAG6gA4Q==",
   "success": true,
-  "projectFilePath": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /TodoApi.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/root/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

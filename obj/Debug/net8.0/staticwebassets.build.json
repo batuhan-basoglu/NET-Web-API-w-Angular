@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hajK4qTEqEbV0GiYABogdS1w8jwmGEZaSwwurfdJ37o=",
+  "Hash": "VpuLVdtSyM+jv5TnMgErZu8NUaJVL+0tZmLaxNl9VCc=",
   "Source": "TodoApi",
   "BasePath": "_content/TodoApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TodoApi/wwwroot",
       "Source": "TodoApi",
-      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/",
+      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/",
       "BasePath": "_content/TodoApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/favicon.ico",
+      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/favicon.ico",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/",
+      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/",
       "BasePath": "_content/TodoApi",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/index.html",
+      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/index.html",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/",
+      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/",
       "BasePath": "_content/TodoApi",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/main-6RBWMYLE.js",
+      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/main-DASB26HH.js",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/",
+      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/",
       "BasePath": "_content/TodoApi",
-      "RelativePath": "main-6RBWMYLE.js",
+      "RelativePath": "main-DASB26HH.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/main-6RBWMYLE.js"
+      "OriginalItemSpec": "wwwroot/main-DASB26HH.js"
     },
     {
-      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/polyfills-RX4V3J3S.js",
+      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/polyfills-RX4V3J3S.js",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/",
+      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/",
       "BasePath": "_content/TodoApi",
       "RelativePath": "polyfills-RX4V3J3S.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/polyfills-RX4V3J3S.js"
     },
     {
-      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/styles-5INURTSO.css",
+      "Identity": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/styles-5INURTSO.css",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/TodoApi/wwwroot/",
+      "ContentRoot": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /wwwroot/",
       "BasePath": "_content/TodoApi",
       "RelativePath": "styles-5INURTSO.css",
       "AssetKind": "All",

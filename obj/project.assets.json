@@ -8151,11 +8151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /TodoApi.csproj",
+      "projectUniqueName": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /TodoApi.csproj",
+      "projectPath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/",
+      "outputPath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

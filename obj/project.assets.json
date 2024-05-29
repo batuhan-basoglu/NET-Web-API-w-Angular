@@ -8146,19 +8146,19 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/arctichawk1/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /TodoApi.csproj",
+      "projectUniqueName": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /TodoApi.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/",
+      "projectPath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
+      "packagesPath": "/home/arctichawk1/.nuget/packages/",
+      "outputPath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/arctichawk1/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8222,6 +8222,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8230,7 +8236,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

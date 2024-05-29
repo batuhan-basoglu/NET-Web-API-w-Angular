@@ -8154,7 +8154,11 @@
       "projectUniqueName": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
       "projectName": "TodoApi",
       "projectPath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
+<<<<<<< HEAD
       "packagesPath": "/home/arctichawk1/.nuget/packages/",
+=======
+      "packagesPath": "/root/.nuget/packages/",
+>>>>>>> ac2ff0fcec82376c386f9bb642b1a71e2499e727
       "outputPath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [

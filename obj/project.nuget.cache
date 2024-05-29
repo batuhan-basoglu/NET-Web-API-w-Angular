@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RVnDg3YksCf1IbQkwDvc2ImUTnBEpVbMRxmT03kPy0qrtjgDgdacR7A74J3zg0h4nwlqMOLsj+cA/Mk8emk8mQ==",
+=======
+  "dgSpecHash": "ZQhGKqLTKXTz5a+7jP9BQYAxvH4GH5sgz+h/9FtnKH3PEe/XLSBYjX7sh0JRVEAcqTJcwH7+9vyYQZhw+6EFUw==",
+>>>>>>> ac2ff0fcec82376c386f9bb642b1a71e2499e727
   "success": true,
   "projectFilePath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
   "expectedPackageFiles": [

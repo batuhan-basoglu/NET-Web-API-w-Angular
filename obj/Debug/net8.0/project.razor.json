@@ -1,6 +1,6 @@
 {
   "SerializedFilePath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/obj/Debug/net8.0/project.razor.json",
-  "FilePath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/TodoApi.csproj",
+  "FilePath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/Api.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "8.0",
@@ -19326,7 +19326,7 @@
     ],
     "CSharpLanguageVersion": 1200
   },
-  "RootNamespace": "TodoApi",
+  "RootNamespace": "Api",
   "Documents": [],
   "SerializationFormat": "0.3"
 }

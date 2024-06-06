@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TC87x2EP3FjCgXPoeMPNv3xdgW0A4Y6PTZ+GLqPzhHqgDPPM4Ti9fTR5zIO6BAtPWNqiX0b+yrQMvDgRr63Vrw==",
+  "dgSpecHash": "pofyjSI5MxtrQP/8WQOQbzAcOKmwmBMvQuUuHNNRChQjBwOSsgU9t+AyK8UAyi1KIINpKZZQ6fgmbqw+dGtY8w==",
   "success": true,
   "projectFilePath": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/Api.csproj",
   "expectedPackageFiles": [
@@ -168,7 +168,7 @@
     "/root/.nuget/packages/system.threading.tasks.dataflow/7.0.0/system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
     "/root/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/root/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }

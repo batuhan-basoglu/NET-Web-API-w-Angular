@@ -1,24 +1,160 @@
 {
   "Files": [
     {
-      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/.editorconfig",
+      "PackagePath": "staticwebassets/.editorconfig"
     },
     {
-      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/.gitignore",
+      "PackagePath": "staticwebassets/.gitignore"
     },
     {
-      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/main-YSBCHBTB.js",
-      "PackagePath": "staticwebassets/main-YSBCHBTB.js"
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/README.md",
+      "PackagePath": "staticwebassets/README.md"
     },
     {
-      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/polyfills-RX4V3J3S.js",
-      "PackagePath": "staticwebassets/polyfills-RX4V3J3S.js"
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/angular.json",
+      "PackagePath": "staticwebassets/angular.json"
     },
     {
-      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/styles-5INURTSO.css",
-      "PackagePath": "staticwebassets/styles-5INURTSO.css"
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/dist/wwwroot/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/browser/favicon.ico",
+      "PackagePath": "staticwebassets/dist/wwwroot/browser/favicon.ico"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/browser/index.html",
+      "PackagePath": "staticwebassets/dist/wwwroot/browser/index.html"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/browser/main-YSBCHBTB.js",
+      "PackagePath": "staticwebassets/dist/wwwroot/browser/main-YSBCHBTB.js"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/browser/polyfills-RX4V3J3S.js",
+      "PackagePath": "staticwebassets/dist/wwwroot/browser/polyfills-RX4V3J3S.js"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/browser/styles-5INURTSO.css",
+      "PackagePath": "staticwebassets/dist/wwwroot/browser/styles-5INURTSO.css"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/prerendered-routes.json",
+      "PackagePath": "staticwebassets/dist/wwwroot/prerendered-routes.json"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/chunk-4R55AP5V.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/chunk-4R55AP5V.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/chunk-O73ZHKXN.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/chunk-O73ZHKXN.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/chunk-VVCT4QZE.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/chunk-VVCT4QZE.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/chunk-XMHQKF5U.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/chunk-XMHQKF5U.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/index.server.html",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/index.server.html"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/main.server.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/main.server.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/polyfills.server.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/polyfills.server.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/render-utils.server.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/render-utils.server.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/dist/wwwroot/server/server.mjs",
+      "PackagePath": "staticwebassets/dist/wwwroot/server/server.mjs"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/package-lock.json",
+      "PackagePath": "staticwebassets/package-lock.json"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/package.json",
+      "PackagePath": "staticwebassets/package.json"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/server.ts",
+      "PackagePath": "staticwebassets/server.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.component.css",
+      "PackagePath": "staticwebassets/src/app/app.component.css"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.component.html",
+      "PackagePath": "staticwebassets/src/app/app.component.html"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.component.spec.ts",
+      "PackagePath": "staticwebassets/src/app/app.component.spec.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.component.ts",
+      "PackagePath": "staticwebassets/src/app/app.component.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.config.server.ts",
+      "PackagePath": "staticwebassets/src/app/app.config.server.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.config.ts",
+      "PackagePath": "staticwebassets/src/app/app.config.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/app/app.routes.ts",
+      "PackagePath": "staticwebassets/src/app/app.routes.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/assets/.gitkeep",
+      "PackagePath": "staticwebassets/src/assets/.gitkeep"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/favicon.ico",
+      "PackagePath": "staticwebassets/src/favicon.ico"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/index.html",
+      "PackagePath": "staticwebassets/src/index.html"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/main.server.ts",
+      "PackagePath": "staticwebassets/src/main.server.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/main.ts",
+      "PackagePath": "staticwebassets/src/main.ts"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/src/styles.css",
+      "PackagePath": "staticwebassets/src/styles.css"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/tsconfig.app.json",
+      "PackagePath": "staticwebassets/tsconfig.app.json"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/tsconfig.json",
+      "PackagePath": "staticwebassets/tsconfig.json"
+    },
+    {
+      "Id": "/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/wwwroot/tsconfig.spec.json",
+      "PackagePath": "staticwebassets/tsconfig.spec.json"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",

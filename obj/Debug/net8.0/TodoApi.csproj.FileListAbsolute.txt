@@ -506,21 +506,21 @@ C:/Users/batuh/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/runt
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/obj/Debug/net8.0/ref/Api.dll
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/package-lock.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/Api.staticwebassets.runtime.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/angular.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/package-lock.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/package.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/tsconfig.app.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/tsconfig.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/tsconfig.spec.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/my-app/dist/my-app/prerendered-routes.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/angular.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/package-lock.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/package.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/tsconfig.app.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/tsconfig.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/tsconfig.spec.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/wwwroot/dist/wwwroot/prerendered-routes.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/appsettings.Development.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/appsettings.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/angular.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/package-lock.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/package.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/tsconfig.app.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/tsconfig.json
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/tsconfig.spec.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/angular.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/package-lock.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/package.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/tsconfig.app.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/tsconfig.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/tsconfig.spec.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/package-lock.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/Api.staticwebassets.runtime.json
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/Api
@@ -550,16 +550,16 @@ C:/Users/batuh/Desktop/Technical-Assessment/Assessment/Api/bin/Debug/net8.0/runt
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/Api.pdb
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/Api.genruntimeconfig.cache
 /home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /obj/Debug/net8.0/ref/Api.dll
-/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/my-app/dist/my-app/prerendered-routes.json
+/home/arctichawk1/Desktop/Technical-Assessment/Assessment/DOTNET-Web-API-w-Angular /bin/Debug/net8.0/wwwroot/dist/wwwroot/prerendered-routes.json
 /home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/appsettings.Development.json
 /home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/appsettings.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/angular.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/dist/my-app/prerendered-routes.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/package-lock.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/package.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/tsconfig.app.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/tsconfig.json
-/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/my-app/tsconfig.spec.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/angular.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/dist/wwwroot/prerendered-routes.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/package-lock.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/package.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/tsconfig.app.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/tsconfig.json
+/home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/wwwroot/tsconfig.spec.json
 /home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/package-lock.json
 /home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/Api.staticwebassets.runtime.json
 /home/arctichawk1/Desktop/Projects/Public/NET-Web-API-w-Angular/bin/Debug/net8.0/Api

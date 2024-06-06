@@ -1,7 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using Api.Models;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(new WebApplicationOptions { 
+    Args = args,
+    WebRootPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "dist", "wwwroot", "browser")
+});
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<Context>(opt =>

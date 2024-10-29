@@ -8,4 +8,4 @@ Execute "dotnet run --launch-profile https"
 
 # Authors
 
-- Batuhan Basoglu
+- Batuhan Berk Başoğlu
